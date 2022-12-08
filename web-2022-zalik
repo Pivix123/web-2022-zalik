@@ -1,0 +1,7 @@
+echo "# web-2022-zalik" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Pivix123/web-2022-zalik.git
+git push -u origin main
